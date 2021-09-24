@@ -64,7 +64,7 @@ dependencies {
                     Log.e(TAG, "onFailed()", exception);
                 }
             })
-            .stdemos();
+            .start();
 ```
 ## Builder Method
 | method | description |
